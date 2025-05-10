@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
 
 int eh_primo(int numero) {
     if (numero <= 1) return 0;
